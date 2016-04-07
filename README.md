@@ -1,6 +1,8 @@
 # ImageCropAndSetWallPaper
-image crop and set wallpaper 
+
 ![image](https://github.com/gg2787/ImageCropAndSetWallPaper/raw/master/wallpaperSet.gif)
+
+crop image by user and set wallpaper
 
 support image crop.
 support scale and scroll/fling.
